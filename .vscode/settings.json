@@ -1,0 +1,9 @@
+// vscodeのsetting.jsonをの一部を上書きして、背景色を変えている。
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#bce2e8",
+        "titleBar.activeForeground": "#000000",
+        "activityBar.background": "#bce2e8",
+        "activityBar.foreground": "#494949"
+    }
+}
